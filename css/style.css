@@ -19,7 +19,7 @@ body {
   background-color: var(--bg-color);
   color: var(--text-main);
   /* Operational Fix: Single source of truth for background */
-  background: url("../assets/images/hero.jpeg") no-repeat center center fixed;
+  background: url("../assets/images/herojpeg.jpeg") no-repeat center center fixed;
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -308,3 +308,4 @@ dd:not(.price) {
     border: 1px solid #000;
   }
 }
+
