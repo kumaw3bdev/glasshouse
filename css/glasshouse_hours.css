@@ -68,12 +68,7 @@ input:focus-visible {
 header {
   padding: 1.5rem; /* Reduced slightly for mobile efficiency */
   text-align: center;
-  background-color: rgba(
-    30,
-    108,
-    147,
-    0.9
-  ); /* Higher opacity for readability */
+   /* Higher opacity for readability */
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -139,7 +134,6 @@ h3.event-day {
   color: #fff;
   background-color: var(--primary-blue);
   padding: 6px 12px;
-  display: inline-block;
   border-radius: 4px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -264,6 +258,7 @@ footer {
     margin-bottom: 15px;
   }
 }
+
 
 
 
