@@ -22,7 +22,7 @@ body {
   /* Operational Fix: Single source of truth for background */
   background:
     linear-gradient(var(--overlay), var(--overlay)),
-    url("../assets/images/herojpeg.jpeg") no-repeat center center fixed;
+    url("../assets/images/hero.jpeg") no-repeat center center fixed;
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -264,4 +264,5 @@ footer {
     margin-bottom: 15px;
   }
 }
+
 
