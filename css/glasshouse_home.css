@@ -20,7 +20,7 @@ body {
   /* Operational Fix: Base background setup */
   background: 
      linear-gradient(var(--overlay), var(--overlay)),
-     url("../assets/images/herojpeg.jpeg") no-repeat center center fixed;
+     url("../assets/images/hero.jpeg") no-repeat center center fixed;
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -228,6 +228,7 @@ footer {
     padding: 1rem; /* Reduce vertical whitespace */
   }
 }
+
 
 
 
