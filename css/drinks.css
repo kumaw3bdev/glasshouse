@@ -81,12 +81,7 @@ a:hover {
 header {
   padding: 2rem;
   text-align: center;
-  background-color: rgba(
-    30,
-    108,
-    147,
-    0.9
-  ); /* Increased opacity for legibility */
+   /* Increased opacity for legibility */
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -274,6 +269,7 @@ footer {
     padding: 1rem;
   }
 }
+
 
 
 
