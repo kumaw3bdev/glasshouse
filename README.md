@@ -58,12 +58,13 @@ Technical Impact Summary:
 Compliance Score: 100% (0 WAVE errors.)
 
 
-### **Technical Infrastructure & Source Code**
-> [!TIP]
-> **Deep Dive:** For a full breakdown of the system architecture, Semantic HTML logic, and WCAG 2.1 AA audit trails, please visit the technical repository:
->
-> 🔗 **[View Technical Documentation & Source Code →](https://github.com/kumaw3bdev/glasshouse)**
->
-> URL: https://kumaw3bdev.github.io/glasshouse/
+### **System Access & Technical Audit**
+
+**[Launch Live Production Site →](https://kumaw3bdev.github.io/glasshouse/)***
+(Optimized for mobile-first delivery and WCAG 2.1 AA compliance)*
+
+**[View Source Code & Technical Documentation →](https://github.com/kumaw3bdev/glasshouse)***
+(Deep dive into the Semantic HTML5 architecture and infrastructure remediation logic)*
+
 
 
