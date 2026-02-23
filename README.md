@@ -58,6 +58,24 @@ Technical Impact Summary:
 Compliance Score: 100% (0 WAVE errors.)
 
 
+To further align with an automation-first mindset, the next phase of this project involves transitioning manual "System Health Checks" into automated workflows.
+
+1. Programmatic Accessibility Auditing (Python + Selenium)
+Objective: Replace manual WAVE scans with a Python-based testing suite.
+
+Implementation: Use a script to crawl the production URL and flag non-compliant HTML elements automatically before they impact the patron experience.
+
+2. Automated Image Optimization Pipeline
+Objective: Enforce the 49kb budget without manual intervention.
+
+Implementation: A GitHub Action that triggers upon image upload, automatically compressing and resizing assets to the "Mosley Standard" before they reach the production server.
+
+3. Uptime & Integrity Monitoring
+Objective: Continuous verification of the "Zero-Dependency" requirement.
+
+Implementation: A scheduled script to verify that no external scripts or broken links have been introduced into the environment.
+
+
 ### **System Access & Technical Audit**
 
 **[Launch Live Production Site →](https://kumaw3bdev.github.io/glasshouse/)***
